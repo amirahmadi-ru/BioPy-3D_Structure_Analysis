@@ -1,6 +1,6 @@
 # Visualizing and Analyzing Proteins in Python
 
-The Biopython package is quite powerful and can visualize and analyze DNA and RNA sequences simply. And it has protein analysis capabilities,too! 
+The Biopython package is quite powerful and can visualize and analyze DNA and RNA sequences simply. And it has protein analysis capabilities, too! 
 
 ![Visualizing and Analyzing Proteins in Python](https://www.creative-proteomics.com/images/Bioinformatics-for-protein-1.png)
 
